@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "111384837435",
+    "firebase_url": "https://idcard-9b3c1.firebaseio.com",
+    "project_id": "idcard-9b3c1",
+    "storage_bucket": "idcard-9b3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111384837435:android:b7054c0cc774c4e9",
+        "android_client_info": {
+          "package_name": "com.example.sdew021.idcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111384837435-4m0bp3gfv390bmebr392fsf8hugh3qdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB88CbG7YYghjbuFKs8AEfjFj_ky6hyYhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

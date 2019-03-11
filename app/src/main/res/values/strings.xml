@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ID CARD</string>
+    <string name="USERID">Enter the User ID</string>
+    <string name="Amount">Enter the Amount</string>
+    <string name="PIN">Enter the Pin</string>
+    <string name="Button">Add Transaction</string>
+    <string name="button">Button</string>
+</resources>
